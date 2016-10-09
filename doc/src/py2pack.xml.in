@@ -94,6 +94,7 @@
               <arg choice="plain">fedora.spec</arg>
               <arg choice="plain">opensuse.dsc</arg>
               <arg choice="plain">opensuse.spec</arg>
+              <arg choice="plain">opensuse-py3.spec</arg>
             </group>
           </arg>
           <arg choice="opt">-f <replaceable>FILENAME</replaceable></arg>
